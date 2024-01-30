@@ -1,19 +1,19 @@
 # Mini-project-Classifier-AI
 
-can run application with MATLAB.
+can run application with MATLAB.<br><br>
 
-##feature - Check Thai food with pictures. - Show detail about food. - Show English and Thai name of food. - Show Accuracy.
+<b>feature</b><br> - Check Thai food with pictures.<br> - Show detail about food.<br> - Show English and Thai name of food.<br> - Show Accuracy.<br><br>
 
-    ##dataset
-        - Khao soi
-        - Roti canai
-        - Phat kaphrao
-        - Tom kha gai
-        - Phanaeng Curry
-        - Massaman Curry
-        - Pad Thai
-        - Tom yum
-        - Green Curry
-        - Khao phat
+<b>dataset<br></b>
+- Khao soi<br>
+- Roti canai<br>
+- Phat kaphrao<br>
+- Tom kha gai<br>
+- Phanaeng Curry<br>
+- Massaman Curry<br>
+- Pad Thai<br>
+- Tom yum<br>
+- Green Curry<br>
+- Khao phat<br>
 
-        Dataset : https://www.kaggle.com/datasets/sorawitsinlapanurak/top-10-best-rated-thai-food
+Dataset : https://www.kaggle.com/datasets/sorawitsinlapanurak/top-10-best-rated-thai-food
